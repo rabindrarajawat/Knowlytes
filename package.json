@@ -1,0 +1,37 @@
+{
+  "name": "dressing-room",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "axios": "^0.27.2",
+    "big-integer": "^1.6.51",
+    "bootstrap": "^5.2.0",
+    "crypto": "^1.0.1",
+    "detect.js": "^2.2.3",
+    "ethers": "^5.6.9",
+    "font": "^0.0.4",
+    "form-data": "^4.0.0",
+    "fs": "^0.0.1-security",
+    "mobile-detect": "^1.4.5",
+    "next": "^12.2.3",
+    "path": "^0.12.7",
+    "react": "18.2.0",
+    "react-bootstrap": "^2.4.0",
+    "react-device-detect": "^2.2.3",
+    "react-dom": "18.2.0",
+    "react-icons": "^4.4.0",
+    "react-player": "^2.11.2",
+    "react-toastify": "^9.0.7",
+    "video-react": "^0.16.0"
+  },
+  "devDependencies": {
+    "eslint": "8.20.0",
+    "eslint-config-next": "12.2.3"
+  }
+}
